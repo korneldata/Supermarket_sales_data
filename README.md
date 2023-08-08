@@ -1,2 +1,2 @@
 # Supermarket_sales_data
-Python (Pandas) project
+Python (Pandas) project - descriptive and outlier analysis.
